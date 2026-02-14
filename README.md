@@ -21,15 +21,13 @@ The HAR Analyzer is a web-based tool designed to analyze HTTP Archive (HAR) file
 - Error summary (badges for slow, unresolved, errors)
 - Details with full request/response info
 
-### Example/Gui Snippets
-
-### Example/Gui Snippets
 
 ### Example/Gui Snippets
 
 | Summary | Errors | Chart | Details |
 |---------|--------|-------|---------|
-| ![Summary](HAR%20Analyzer/image.png) | ![Errors](HAR%20Analyzer/image%201.png) | ![Chart](HAR%20Analyzer/image%202.png) | ![Details](HAR%20Analyzer/image%203.png) |
+| ![Summary](image.png) | ![Errors](image 1.png) | ![Chart](image 2.png) | ![Details](image 3.png) |
+
 
 
 
