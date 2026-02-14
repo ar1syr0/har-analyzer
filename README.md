@@ -1,8 +1,3 @@
----
-layout: default
-title: HAR Analyzer
----
-
 # HAR Analyzer
 
 ### Why?
