@@ -23,6 +23,8 @@ The HAR Analyzer is a web-based tool designed to analyze HTTP Archive (HAR) file
 
 ### Example/Gui Snippets
 
+### Example/Gui Snippets
+
 | Summary | Errors | Chart | Details |
 |---------|--------|-------|---------|
 | ![Summary](https://github.com/ar1syr0/har-analyzer/blob/main/HAR%20Analyzer/image.png?raw=true) | ![Errors](https://github.com/ar1syr0/har-analyzer/blob/main/HAR%20Analyzer/image%201.png?raw=true) | ![Chart](https://github.com/ar1syr0/har-analyzer/blob/main/HAR%20Analyzer/image%202.png?raw=true) | ![Details](https://github.com/ar1syr0/har-analyzer/blob/main/HAR%20Analyzer/image%203.png?raw=true) |
