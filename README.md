@@ -26,7 +26,7 @@ The HAR Analyzer is a web-based tool designed to analyze HTTP Archive (HAR) file
 
 | Summary | Errors | Chart | Details |
 |---------|--------|-------|---------|
-| ![Summary](image.png) | ![Errors](image 1.png) | ![Chart](image 2.png) | ![Details](image 3.png) |
+| ![Summary](image.png) | ![Errors](image1.png) | ![Chart](image 2.png) | ![Details](image 3.png) |
 
 
 
