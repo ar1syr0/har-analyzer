@@ -2,9 +2,13 @@
 
 ### Why?
 
-Due to numerous report timeouts and errors occurring on the client system, **I had to monitor the request and response times to identify the root cause**. I did this using the **Network** module in the browser’s Developer Tools, where I captured and downloaded the **HAR (HTTP Archive)** report.
+Reports kept timing out and throwing tantrums, so I went full detective mode.
 
-The HAR report is a JSON-based file containing unformatted output. While there are many HAR readers available online, **I preferred not to upload data from either the client or our systems to external platforms**. Therefore, **I developed the following solution, which allowed me to extract and present accurate details to Yardi to help resolve the issue**.
+Opened DevTools, lived in the Network tab, captured the HAR like it owed me money.
+
+Sure, there are a million online HAR readers.
+No, I’m not uploading sensitive data to “definitely-not-sketchy-har-tool.com”.
+
 
 ### **HAR Analyzer Documentation**
 
